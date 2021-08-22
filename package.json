@@ -1,0 +1,13 @@
+{
+  "name": "B2B",
+  "version": "1.0.0",
+  "description": "Mustafa AYGUN",
+  "main": "index.js",
+  "author": "Mustafa AYGUN",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.3.0",
+    "sequelize": "^6.6.5"
+  }
+}
