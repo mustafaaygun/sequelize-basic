@@ -18,3 +18,5 @@ TBLMUSTERIB2B.init({
     sequelize: DB,
     tableName:'TBLMUSTERIB2B'
 });
+
+module.exports = {TBLMUSTERIB2B};
